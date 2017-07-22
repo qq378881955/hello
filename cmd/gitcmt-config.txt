@@ -1,0 +1,2 @@
+请将该路径加入到PATH环境变量中。
+E:\gitHub\hello\cmd
