@@ -1,2 +1,3 @@
 请将该路径加入到PATH环境变量中。
 E:\gitHub\hello\cmd
+然后在gitHub项目下，可以直接使用gitcmt.sh命令进行代码跟新和提交。

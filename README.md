@@ -1,4 +1,6 @@
 # hello
-this is my first repository.
-this is a branch .
-hello i am a chinese.
+这是 wlj的gitHub 学习整理。
+以下是基本介绍：
+1、hello项目里面存放一些基本环境配置。
+2、cmd目录存放一件快捷操作目前有
+	a.一键更新和提交。
